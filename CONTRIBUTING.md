@@ -9,7 +9,7 @@ Thank you for your interest in contributing to Clean Code Reviewer! We appreciat
 4. **Make your changes**: Implement your feature or fix and make sure to write tests.
 5. **Commit your changes**: Commit your changes with a clear and concise commit message.
 6. **Push to your fork**: Push your changes back to your fork using `git push origin <branch-name>`.
-7. **Submit a pull request**: Go to the original repository and click the “New Pull Request” button.
+7. **Submit a pull request**: Go to the original repository and click the “New Pull Request” button. Make sure to describe the changes you made and why they are necessary.
 
 ## Guidelines
 - Follow the project's coding style and standards.
